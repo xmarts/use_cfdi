@@ -1,3 +1,6 @@
 [submodule "cfdi4-enterprise"]
 	path = cfdi4-enterprise
 	url = git@github.com:xmarts/cfdi4-enterprise.git
+[submodule "mxa-usage-type"]
+	path = mxa-usage-type
+	url = git@github.com:xmarts/mxa-usage-type.git
